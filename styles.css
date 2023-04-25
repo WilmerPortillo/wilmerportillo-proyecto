@@ -1,0 +1,36 @@
+
+  @import 
+  url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+
+p{
+    color:rgb(13, 13, 15);
+}
+
+.rojo{
+    color: rgb(12, 10, 112);
+    text-align: center;
+} 
+
+
+.centrado {
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif;
+color: rgb(20, 56, 20);
+
+}
+
+#intro{
+    background-color:rgb(218, 216, 206);
+}
+
+#contenidos{
+    background-color:lightgoldenrodyellow;
+}
+
+#informacionpersonal{
+    background-color: khaki;
+}
+
+.hobby{
+    color: blue;
+}
